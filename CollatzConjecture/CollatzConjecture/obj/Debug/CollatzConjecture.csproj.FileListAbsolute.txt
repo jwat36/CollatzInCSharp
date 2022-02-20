@@ -1,0 +1,8 @@
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\Collatz Conjecture\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.exe.config
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\Collatz Conjecture\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.exe
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\Collatz Conjecture\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.pdb
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\Collatz Conjecture\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.csproj.AssemblyReference.cache
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\Collatz Conjecture\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.csproj.SuggestedBindingRedirects.cache
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\Collatz Conjecture\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.csproj.CoreCompileInputs.cache
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\Collatz Conjecture\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.exe
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\Collatz Conjecture\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.pdb
